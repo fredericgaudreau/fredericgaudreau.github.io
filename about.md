@@ -4,11 +4,4 @@ title: À propos
 permalink: /apropos/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
+Réflexions sur le politique, le social, la technologie et sur les intersections entre ces milieux.
