@@ -1,3 +1,8 @@
+---
+layout: post
+title: Présentation technique
+---
+
 Depuis un bon moment déjà, l'idée d'avoir un espace de publication sur Internet m'intéressait. Le côté technique suscitait aussi mon intérêt. Bien sûr, [Wordpress](https://www.wordpress.com) existe depuis des années et soutient une large portion de l'Internet. J'aurais très bien pu l'utiliser pour héberger ce site. L'adéquation entre mes besoins (plutôt faibles) et ces capacités m'a fait voir les alternatives. 
 
 [Github](https://www.github.com) est, à la base, un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git (comme son nom l'indique). Les services offerts sont nombreux, mais un a attiré mon attention: [Github Pages](https://pages.github.com/). Github Pages permet d'héberger des sites statiques gratuitement (et sans publicités) en respectant certaines conditions. Mes besoins respectant ces conditions, j'ai commencé à m'informer pour créer mon petit coin de l'Internet. Github Pages utilise [Jekyll](https://github.com/jekyll/jekyll) pour générer des sites statiques pour les projets hébergés sur sa plate-forme
